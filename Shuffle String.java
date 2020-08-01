@@ -5,7 +5,7 @@ import java.util.*;
 * https://leetcode.com/problems/shuffle-string/
 *  */
 
-public class Solution2 {
+public class Solution {
     /*
       O(n) complexity
       O(n) Space
