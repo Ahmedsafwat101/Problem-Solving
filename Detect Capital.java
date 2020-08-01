@@ -1,5 +1,8 @@
 package com.AhmedSafwat;
-
+/*
+* 520. Detect Capital
+* https://leetcode.com/problems/detect-capital/
+*/
 public class Solution3 {
     public boolean detectCapitalUse(String word) {
 
