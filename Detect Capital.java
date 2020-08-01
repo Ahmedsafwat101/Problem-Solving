@@ -3,7 +3,7 @@ package com.AhmedSafwat;
 * 520. Detect Capital
 * https://leetcode.com/problems/detect-capital/
 */
-public class Solution3 {
+public class Solution {
     public boolean detectCapitalUse(String word) {
 
         if(allCapital(word)) return true;
