@@ -3,7 +3,7 @@ package com.AhmedSafwat;
 * 680. Valid Palindrome II
 * https://leetcode.com/problems/valid-palindrome-ii/
 */
-public class Solution4 {
+public class Solution {
     public boolean validPalindrome(String s) {
         int left=0;
         int right= s.length()-1;
